@@ -7,11 +7,11 @@ public:
             if(nums[i]==0){
                 result[i]=0;
             }else{
-                int idx = (i+nums[i]) % n;
-                if(idx<0){
-                    idx+=n;
+                int index = (i+nums[i]) % n;
+                if(index < 0){
+                    index+=n;
                 }
-                result[i]=nums[idx];
+                result[i]=nums[index];
             }
         }
         return result;
