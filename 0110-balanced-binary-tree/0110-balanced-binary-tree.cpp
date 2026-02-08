@@ -9,20 +9,23 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        return dfs(root)[0] == 1;
-    }
-    vector<int> dfs(TreeNode* root){
-        if(!root){
-            return {1, 0};
-        }
-        vector<int> left = dfs(root->left);
-        vector<int> right = dfs(root->right);
+        if (!root) return true;
 
-        bool balanced = (left[0] == 1 && right[0] == 1) && (abs(left[1] - right[1]) <= 1);
-        int height = 1 + max(left[1], right[1]);
-        return {balanced ? 1 : 0, height};
+        int left = height(root->left);
+        int right = height(root->right);
+        if (abs(left - right) > 1) return false;
+        return isBalanced(root->left) && isBalanced(root->right);
+    }
+
+    int height(TreeNode* root) {
+        if (root == nullptr) {
+            return 0;
+        }
+
+        return 1 + max(height(root->left), height(root->right));
     }
 };
