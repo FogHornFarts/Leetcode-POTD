@@ -9,12 +9,13 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+ class Solution {
 public:
+    
     void inorder(TreeNode* root, vector<int>& sortedVals) {
         if (root == NULL) return;
 
-        inorder(root->left, sortedVals);     
+        inorder(root->left, sortedVals);      
         sortedVals.push_back(root->val);      
         inorder(root->right, sortedVals);     
     }
@@ -22,7 +23,7 @@ public:
     TreeNode* buildBalanced(vector<int>& sortedVals, int start, int end) {
         if (start > end) return NULL;
 
-        int mid = (start + end) / 2;          
+        int mid = (start + end) / 2;         
 
         TreeNode* root = new TreeNode(sortedVals[mid]);
 
@@ -31,9 +32,14 @@ public:
 
         return root;
     }
+
     TreeNode* balanceBST(TreeNode* root) {
         vector<int> sortedVals;
+
+        
         inorder(root, sortedVals);
+
+    
         return buildBalanced(sortedVals, 0, sortedVals.size() - 1);
     }
 };
