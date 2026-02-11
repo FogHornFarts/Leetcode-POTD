@@ -1,21 +1,30 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int n = s.size();
-        vector<vector<bool>> f(n, vector<bool>(n, true));
-        int k = 0, mx = 1;
-        for (int i = n - 2; ~i; --i) {
-            for (int j = i + 1; j < n; ++j) {
-                f[i][j] = false;
-                if (s[i] == s[j]) {
-                    f[i][j] = f[i + 1][j - 1];
-                    if (f[i][j] && mx < j - i + 1) {
-                        mx = j - i + 1;
-                        k = i;
-                    }
-                }
-            }
+        if (s.empty()) return "";
+        int start = 0, maxLen = 1;
+
+        for (int i = 0; i < s.size(); ++i) {
+            // Odd length palindrome (single character center)
+            expandAroundCenter(s, i, i, start, maxLen);
+            // Even length palindrome (between characters)
+            expandAroundCenter(s, i, i + 1, start, maxLen);
         }
-        return s.substr(k, mx);
+
+        return s.substr(start, maxLen);
+    }
+
+private:
+    void expandAroundCenter(const string& s, int left, int right, int& start, int& maxLen) {
+        while (left >= 0 && right < s.size() && s[left] == s[right]) {
+            --left;
+            ++right;
+        }
+        // After loop, left and right are at first mismatching characters (or outside)
+        int len = right - left - 1;
+        if (len > maxLen) {
+            maxLen = len;
+            start = left + 1;
+        }
     }
 };
