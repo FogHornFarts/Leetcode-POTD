@@ -1,77 +1,74 @@
 class Solution {
 public:
-    static int longestRun(const string &s) {
-        int n = (int)s.size();
-        int best = 1, len = 1;
+    int mono(const string& s){
+        if(s.empty()) return 0;
+        int cnt = 1;
+        int ans = 1;
+        for(int i = 1; i < (int)s.size(); i ++){
+            if(s[i] == s[i - 1]) cnt++;
+            else cnt = 1;
+            ans = max(ans, cnt);
+        }
+        return ans;
+    }
 
-        for (int i = 1; i < n; i++) {
-            if (s[i] == s[i - 1]) len++;
-            else {
-                best = max(best, len);
-                len = 1;
+    int duo(const string& s, char c1, char c2){
+        map<int, int> pos;
+        pos[0] = -1;
+        int ans = 0;
+        int delta = 0;
+        for(int i = 0; i < (int)s.size(); i ++){
+            if(s[i] != c1 && s[i] != c2){
+                pos.clear();
+                pos[0] = i;
+                delta = 0;
+                continue;
+            }
+            if(s[i] == c1){
+                delta++;
+            }
+            else{
+                delta--;
+            }
+            if(pos.find(delta) != pos.end()){
+                ans = max(ans, i - pos[delta]);
+            }
+            else{
+                pos[delta] = i;
             }
         }
-        return max(best, len);
-    }
-
-    static long long pack(int x, int y) {
-        // bias to handle negatives safely
-        static const long long bias = 1LL << 18;   // enough for n up to 1e5
-        static const long long shift = 32;
-
-        return ((long long)(x + bias) << shift) | (long long)(y + bias);
-    }
-
-    int longestBalanced(string s) {
-        int n = (int)s.size();
-        int ans = longestRun(s);
-
-        unordered_map<long long, int> ab, bc, ca, abc;
-        ab.reserve(n);
-        bc.reserve(n);
-        ca.reserve(n);
-        abc.reserve(n);
-
-        // prefix state at index -1
-        ab[pack(0, 0)] = -1;   // (A-B, C)
-        bc[pack(0, 0)] = -1;   // (B-C, A)
-        ca[pack(0, 0)] = -1;   // (C-A, B)
-        abc[pack(0, 0)] = -1;  // (B-A, C-A)
-
-        int A = 0, B = 0, C = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (s[i] == 'a') A++;
-            else if (s[i] == 'b') B++;
-            else C++;
-
-            long long key;
-
-            // --- 3 character balanced: A=B=C ---
-            key = pack(B - A, C - A);
-            auto it = abc.find(key);
-            if (it != abc.end()) ans = max(ans, i - it->second);
-            else abc[key] = i;
-
-            // --- only a,b balanced (no c): A=B and C=0 ---
-            key = pack(A - B, C);
-            it = ab.find(key);
-            if (it != ab.end()) ans = max(ans, i - it->second);
-            else ab[key] = i;
-
-            // --- only b,c balanced (no a): B=C and A=0 ---
-            key = pack(B - C, A);
-            it = bc.find(key);
-            if (it != bc.end()) ans = max(ans, i - it->second);
-            else bc[key] = i;
-
-            // --- only c,a balanced (no b): C=A and B=0 ---
-            key = pack(C - A, B);
-            it = ca.find(key);
-            if (it != ca.end()) ans = max(ans, i - it->second);
-            else ca[key] = i;
-        }
-
         return ans;
+    }
+
+    int trio(const string& s){
+        vector<int> cnt(3, 0);
+
+        map<vector<int>, int> pos;
+        pos[{0, 0}] = -1;
+
+        int ans = 0;
+
+        for(int i = 0; i < (int)s.size(); i++){
+            cnt[s[i] - 'a']++;
+
+            vector<int> key = {cnt[1] - cnt[0], cnt[2] - cnt[0]};
+
+            if(pos.find(key) != pos.end()){
+                ans = max(ans, i - pos[key]);
+            }
+            else{
+                pos[key] = i;
+            }
+        }
+        return ans;
+    }
+    int longestBalanced(string s) {
+        return max({
+            mono(s),
+            duo(s, 'a', 'b'),
+            duo(s, 'a', 'c'),
+            duo(s, 'b', 'c'),
+            trio(s)
+        });
     }
 };
