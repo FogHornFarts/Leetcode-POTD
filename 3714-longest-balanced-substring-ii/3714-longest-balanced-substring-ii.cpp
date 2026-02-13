@@ -1,65 +1,75 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
+    static int longestRun(const string &s) {
+        int n = (int)s.size();
+        int best = 1, len = 1;
+
+        for (int i = 1; i < n; i++) {
+            if (s[i] == s[i - 1]) len++;
+            else {
+                best = max(best, len);
+                len = 1;
+            }
+        }
+        return max(best, len);
+    }
+
+    static long long pack(int x, int y) {
+        // bias to handle negatives safely
+        static const long long bias = 1LL << 18;   // enough for n up to 1e5
+        static const long long shift = 32;
+
+        return ((long long)(x + bias) << shift) | (long long)(y + bias);
+    }
+
     int longestBalanced(string s) {
         int n = (int)s.size();
-        int ans = 1;
+        int ans = longestRun(s);
 
-        // Case 1: longest run of same char
-        int run = 1;
-        for (int i = 1; i < n; i++) {
-            if (s[i] == s[i - 1]) run++;
-            else run = 1;
-            ans = max(ans, run);
-        }
+        unordered_map<long long, int> ab, bc, ca, abc;
+        ab.reserve(n);
+        bc.reserve(n);
+        ca.reserve(n);
+        abc.reserve(n);
+
+        // prefix state at index -1
+        ab[pack(0, 0)] = -1;   // (A-B, C)
+        bc[pack(0, 0)] = -1;   // (B-C, A)
+        ca[pack(0, 0)] = -1;   // (C-A, B)
+        abc[pack(0, 0)] = -1;  // (B-A, C-A)
 
         int A = 0, B = 0, C = 0;
-
-        // Maps store earliest index where state appeared
-        unordered_map<long long, int> mpAB_C;
-        unordered_map<long long, int> mpAC_B;
-        unordered_map<long long, int> mpBC_A;
-        unordered_map<long long, int> mpABC;
-
-        auto pack2 = [&](int x, int y) -> long long {
-            // shift to avoid negative collisions
-            return ( (long long)(x + 200000) << 20 ) ^ (long long)(y + 200000);
-        };
-
-        // prefix at "index -1"
-        mpAB_C[pack2(0, 0)] = -1; // (A-B=0, C=0)
-        mpAC_B[pack2(0, 0)] = -1; // (A-C=0, B=0)
-        mpBC_A[pack2(0, 0)] = -1; // (B-C=0, A=0)
-        mpABC[pack2(0, 0)]  = -1; // (A-B=0, A-C=0)
 
         for (int i = 0; i < n; i++) {
             if (s[i] == 'a') A++;
             else if (s[i] == 'b') B++;
             else C++;
 
-            // ---- 2 character cases ----
-            // only a,b : need A-B same and C same
-            long long key1 = pack2(A - B, C);
-            if (mpAB_C.count(key1)) ans = max(ans, i - mpAB_C[key1]);
-            else mpAB_C[key1] = i;
+            long long key;
 
-            // only a,c : need A-C same and B same
-            long long key2 = pack2(A - C, B);
-            if (mpAC_B.count(key2)) ans = max(ans, i - mpAC_B[key2]);
-            else mpAC_B[key2] = i;
+            // --- 3 character balanced: A=B=C ---
+            key = pack(B - A, C - A);
+            auto it = abc.find(key);
+            if (it != abc.end()) ans = max(ans, i - it->second);
+            else abc[key] = i;
 
-            // only b,c : need B-C same and A same
-            long long key3 = pack2(B - C, A);
-            if (mpBC_A.count(key3)) ans = max(ans, i - mpBC_A[key3]);
-            else mpBC_A[key3] = i;
+            // --- only a,b balanced (no c): A=B and C=0 ---
+            key = pack(A - B, C);
+            it = ab.find(key);
+            if (it != ab.end()) ans = max(ans, i - it->second);
+            else ab[key] = i;
 
-            // ---- 3 character case ----
-            // need A-B same and A-C same
-            long long key4 = pack2(A - B, A - C);
-            if (mpABC.count(key4)) ans = max(ans, i - mpABC[key4]);
-            else mpABC[key4] = i;
+            // --- only b,c balanced (no a): B=C and A=0 ---
+            key = pack(B - C, A);
+            it = bc.find(key);
+            if (it != bc.end()) ans = max(ans, i - it->second);
+            else bc[key] = i;
+
+            // --- only c,a balanced (no b): C=A and B=0 ---
+            key = pack(C - A, B);
+            it = ca.find(key);
+            if (it != ca.end()) ans = max(ans, i - it->second);
+            else ca[key] = i;
         }
 
         return ans;
