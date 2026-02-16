@@ -1,21 +1,17 @@
 class Solution {
 public:
-    int convert_back(vector<int>bits){
-        int num=bits[31];
-        for(int i=0;i<31;i++){
-            num=num+bits[i]*pow(2,31-i);
-        }
-        return num;
-    }
     int reverseBits(int n) {
-        vector<int>bits(32,0);
-        int num=n,i=0;
-        while(num!=0){
-            int rem=num%2;
-            bits[i]=rem;
-            num=num/2;
-            i++;
-        }
-        return convert_back(bits);
+        n = (n >> 16) | (n << 16);
+        n = ((n & 0b11111111000000001111111100000000) >> 8)
+          | ((n & 0b00000000111111110000000011111111) << 8);
+        n = ((n & 0b11110000111100001111000011110000) >> 4)
+          | ((n & 0b00001111000011110000111100001111) << 4);
+        n = ((n & 0b11001100110011001100110011001100) >> 2)
+          | ((n & 0b00110011001100110011001100110011) << 2);
+        n = ((n & 0b10101010101010101010101010101010) >> 1)
+          | ((n & 0b01010101010101010101010101010101) << 1);
+
+        return n;
     }
 };
+
