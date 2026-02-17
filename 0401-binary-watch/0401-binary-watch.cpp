@@ -1,11 +1,10 @@
 class Solution {
 public:
-    
     int countBits(int x) {
         int cnt = 0;
         while (x) {
-            cnt += (x & 1);   // check last bit
-            x >>= 1;          // right shift
+            cnt += (x & 1);
+            x >>= 1;
         }
         return cnt;
     }
@@ -15,18 +14,14 @@ public:
 
         for (int h = 0; h < 12; h++) {
             for (int m = 0; m < 60; m++) {
-
                 if (countBits(h) + countBits(m) == turnedOn) {
-                    string time = to_string(h) + ":";
-
-                    if (m < 10) time += "0";   // minute must be 2 digits
-                    time += to_string(m);
-
-                    ans.push_back(time);
+                    string t = to_string(h) + ":";
+                    if (m < 10) t += "0";
+                    t += to_string(m);
+                    ans.push_back(t);
                 }
             }
         }
-
         return ans;
     }
 };
