@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countPrimeSetBits(int left, int right) {
-        int res_counter = 0;
+        int res = 0;
         for(int i=left;i<=right;i++){
             int curr = i;
             if(curr==0){
@@ -16,17 +16,17 @@ public:
                 curr/=2;
             }
             if(isPrime(counter)){
-                res_counter++;
+                res++;
             }
         }
-        return res_counter;
+        return res;
     }
-    bool isPrime(int n) {
-        if (n <= 1) {
+    bool isPrime(int n){
+        if(n<=1){
             return false;
         }
-        for (int i = 2; i <= sqrt(n); i++) {
-            if (n % i == 0) {
+        for(int i=2;i<=sqrt(n);i++){
+            if(n%i==0){
                 return false;
             }
         }
