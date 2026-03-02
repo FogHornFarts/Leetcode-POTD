@@ -1,32 +1,36 @@
 class Solution {
 public:
-    int minSwaps(vector<vector<int>>& grid) {
+    int minSwaps(vector<vector<int>> &grid) {
         int n = grid.size();
-        vector<int> zeros(n, 0);
-        for (int i = 0; i < n; ++i) {
-            int cnt = 0;
-            for (int j = n - 1; j >= 0; --j) {
-                if (grid[i][j] == 0) ++cnt;
-                else break;
+        vector<int> trailing(n);
+        for (int i = 0; i < n; i++) {
+            int count = 0;
+            for (int j = n - 1; j >= 0; j--) {
+                if (grid[i][j] == 0) {
+                    count++;
+                } else {
+                    break;
+                }
             }
-            zeros[i] = cnt;
+            trailing[i] = count;
         }
-        vector<int> order(n);
-        for (int i = 0; i < n; ++i) order[i] = i;
+        int swaps = 0;
+        for (int i = 0; i < n; i++) {
+            int required = n - 1 - i;
+            int pos = i;
 
-        int ans = 0;
-        for (int i = 0; i < n; ++i) {
-            int need = n - 1 - i;
-            int j = i;
-            while (j < n && zeros[order[j]] < need) ++j;
-            if (j == n) return -1; 
-            ans += j - i;
-            int tmp = order[j];
-            for (int k = j; k > i; --k) {
-                order[k] = order[k - 1];
+            while (pos < n && trailing[pos] < required) {
+                pos++;
             }
-            order[i] = tmp;
+            if (pos == n) {
+                return -1;
+            }
+            while (pos > i) {
+                swap(trailing[pos], trailing[pos - 1]);
+                swaps++;
+                pos--;
+            }
         }
-        return ans;
+        return swaps;
     }
 };
