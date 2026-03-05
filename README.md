@@ -12,6 +12,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
