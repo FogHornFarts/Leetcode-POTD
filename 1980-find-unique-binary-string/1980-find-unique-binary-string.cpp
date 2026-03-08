@@ -2,14 +2,14 @@ class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
         int n = nums.size();
-        string ans = "";
+        string res = "";
         for(int i=0;i<n;i++){
             if(nums[i][i]=='0'){
-                ans+='1';
+                res+='1';
             }else{
-                ans+='0';
+                res+='0';
             }
         }
-        return ans;
+        return res;
     }
 };
