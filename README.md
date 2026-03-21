@@ -7,6 +7,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
