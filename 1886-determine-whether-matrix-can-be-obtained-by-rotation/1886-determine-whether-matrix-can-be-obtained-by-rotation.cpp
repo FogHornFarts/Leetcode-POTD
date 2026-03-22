@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     void rotate(vector<vector<int>>& mat){
         int n = mat.size();
         for(int i=0;i<n;i++){
@@ -14,7 +13,7 @@ public:
     }
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
         for(int i=0;i<4;i++){
-            if(mat == target){
+            if(mat==target){
                 return true;
             }
             rotate(mat);
