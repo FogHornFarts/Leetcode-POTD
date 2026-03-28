@@ -12,6 +12,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -139,6 +140,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
