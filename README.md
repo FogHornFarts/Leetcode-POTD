@@ -14,6 +14,7 @@ Collection of LeetCode questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
