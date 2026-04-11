@@ -15,6 +15,10 @@ public:
                 V[x][1] = i;
             }
         }
-        return (ans == 1e9) ? -1: ans;
+        if(ans == 1e9){
+            return -1;
+        }else{
+            return ans;
+        }
     }
 };
