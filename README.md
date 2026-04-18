@@ -196,6 +196,7 @@ Collection of LeetCode questions
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
