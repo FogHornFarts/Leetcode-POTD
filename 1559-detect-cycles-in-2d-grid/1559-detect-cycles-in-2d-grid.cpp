@@ -28,7 +28,7 @@ public:
         n = grid[0].size();
         visited.assign(m, vector<int>(n, 0));
 
-        for (int i = 0; i < m-1; i++) {
+        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (!visited[i][j]) {
                     if (dfs(grid, i, j, -1, -1, grid[i][j]))
