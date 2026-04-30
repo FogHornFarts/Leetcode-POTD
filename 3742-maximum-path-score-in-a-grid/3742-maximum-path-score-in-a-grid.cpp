@@ -1,42 +1,47 @@
 class Solution {
 public:
-    int solve(int i, int j, vector<vector<int>>& grid, int k, int n, int m,
-              vector<vector<vector<int>>>& dp) {
+    int maxPathScore(vector<vector<int>>& grid, int k) {
+        int n = grid.size(), m = grid[0].size();
 
-        if (i >= n || j >= m)
-            return -1;
+        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m, vector<int>(k + 1, -1)));
 
-        int cost = (grid[i][j] == 0 ? 0 : 1);
-        k -= cost;
+        int startCost = (grid[0][0] == 0 ? 0 : 1);
+        if (k >= startCost)
+            dp[0][0][k - startCost] = grid[0][0];
 
-        if (k < 0)
-            return -1;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                for (int rem = 0; rem <= k; rem++) {
+                    if (dp[i][j][rem] == -1) continue;
 
-        if (i == n - 1 && j == m - 1) {
-            return grid[i][j];
+                    if (j + 1 < m) {
+                        int cost = (grid[i][j + 1] == 0 ? 0 : 1);
+                        if (rem >= cost) {
+                            dp[i][j + 1][rem - cost] = max(
+                                dp[i][j + 1][rem - cost],
+                                dp[i][j][rem] + grid[i][j + 1]
+                            );
+                        }
+                    }
+
+                    if (i + 1 < n) {
+                        int cost = (grid[i + 1][j] == 0 ? 0 : 1);
+                        if (rem >= cost) {
+                            dp[i + 1][j][rem - cost] = max(
+                                dp[i + 1][j][rem - cost],
+                                dp[i][j][rem] + grid[i + 1][j]
+                            );
+                        }
+                    }
+                }
+            }
         }
 
-        if (dp[i][j][k] != -2)
-            return dp[i][j][k];
+        int ans = -1;
+        for (int rem = 0; rem <= k; rem++) {
+            ans = max(ans, dp[n - 1][m - 1][rem]);
+        }
 
-        int right = solve(i, j + 1, grid, k, n, m, dp);
-        int down = solve(i + 1, j, grid, k, n, m, dp);
-
-        int best = max(right, down);
-
-        if (best == -1)
-            return dp[i][j][k] = -1;
-
-        return dp[i][j][k] = grid[i][j] + best;
-    }
-
-    int maxPathScore(vector<vector<int>>& grid, int k) {
-        int n = grid.size();
-        int m = grid[0].size();
-
-        vector<vector<vector<int>>> dp(
-            n, vector<vector<int>>(m, vector<int>(k + 1, -2)));
-
-        return solve(0, 0, grid, k, n, m, dp);
+        return ans;
     }
 };
