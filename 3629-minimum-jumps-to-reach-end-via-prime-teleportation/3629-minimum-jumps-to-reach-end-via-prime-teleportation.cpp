@@ -56,7 +56,7 @@ public:
                 if (idx == n - 1){
                     return steps;
                 }
-                if (idx - 1 >= 0 && !vis[idx - 1]) {
+                if (idx - 1>= 0 && !vis[idx - 1]) {
                     vis[idx - 1] = 1;
                     q.push(idx - 1);
                 }
