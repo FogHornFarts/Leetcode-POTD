@@ -81,6 +81,7 @@ Collection of LeetCode questions
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -173,6 +174,7 @@ Collection of LeetCode questions
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -281,6 +284,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -315,6 +319,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
