@@ -1,11 +1,21 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_set<char> st(word.begin(), word.end());
-        int count = 0;
+        int lower[26] = {0};
+        int upper[26] = {0};
+        for(int i = 0; i < word.length(); i++) {
 
-        for(char ch : st) {
-            if(isupper(ch) && st.count(tolower(ch))) {
+            char ch = word[i];
+            if(ch >= 'a' && ch <= 'z') {
+                lower[ch - 'a'] = 1;
+            }
+            else if(ch >= 'A' && ch <= 'Z') {
+                upper[ch - 'A'] = 1;
+            }
+        }
+        int count = 0;
+        for(int i = 0; i < 26; i++) {
+            if(lower[i] == 1 && upper[i] == 1) {
                 count++;
             }
         }
