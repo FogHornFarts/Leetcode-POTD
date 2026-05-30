@@ -93,6 +93,7 @@ Collection of LeetCode questions
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -378,4 +381,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
