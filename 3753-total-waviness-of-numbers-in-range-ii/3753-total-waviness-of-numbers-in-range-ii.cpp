@@ -1,48 +1,82 @@
-using ll = long long;
 class Solution {
-    static inline int waves[570];
-    static inline bool init = []() {
-        int j = 0;
-        for (int i = 0; i < 1000; i++) {
-            int r = i % 10;
-            int m = (i / 10) % 10;
-            int l = (i / 100) % 10;
-            if ((m > max(l, r)) | (m < min(l, r)))
-                waves[j++] = i;
-        }
-        return 0;
-    }();
-
 public:
-    ll totalWaviness(ll A, ll B) { return waveCount(B) - waveCount(A - 1); }
-
-private:
-    ll waveCount(ll num) {
-        if (num < 100)
-            return 0;
-        return accumulate(begin(waves), end(waves), 0LL,
-                          [&](ll a, int p) { return a + countWays(num, p); });
+    using ll = long long;
+    ll ll_pow(ll base, ll power) {
+        ll result = 1;
+        for (int i = 0; i < power; i++) {
+            result *= base;
+        }
+        return result;
     }
 
-    ll countWays(ll num, int pattern) {
-        ll t = pattern < 100;
-        ll count = 0, mult = 1;
+    ll wav(ll num) {
+        if (num <= 100)
+            return 0;
+        string s = to_string(num);
+        int n = s.size();
 
-        for (int i = 0; mult * 100 <= num; i++) {
-            ll pre = num / (mult * 1000);
-            ll cur = (num / mult) % 1000;
-            ll suf = num % mult;
-            ll ways = 0;
-            if (cur > pattern) {
-                ways = pre - t + 1;
-            } else if (cur == pattern) {
-                ways = max(0LL, pre - t);
-                count += suf + 1;
-            } else
-                ways = max(0LL, pre - t);
-            count += ways * mult;
-            mult *= 10;
+        ll a, b, c, res = 0;
+
+        for (int i = 0; i < n - 2; i++) {
+            a = 1, b = 0, c = 1;
+            ll exp = 1;
+
+            for (int j = n - 1; j >= 0; j--) {
+                if (j >= i && j <= i + 2){
+                    continue;
+                }
+                if (j < i){
+                    a += exp * (s[j] - '0');
+                }else{
+                    a *= 10;
+                }
+                exp *= 10;
+            }
+            if (i > 0){
+                b = a - ll_pow(10, n - i - 3);
+            }
+            exp = 1;
+            for (int j = n - 1; j >= 0; j--) {
+                if (j >= i && j <= i + 2){
+                    continue;
+                }
+                c += exp * (s[j] - '0');
+                exp *= 10;
+            }
+
+            int tar = (s[i] - '0') * 100 + (s[i + 1] - '0') * 10 + s[i + 2] - '0';
+            ll sub = ll_pow(10, n - i - 3);
+            for (int j = 0; j <= 9; j++) {
+                if (i == 0 && j == 0){
+                    continue;
+                }
+                for (int k = 0; k <= 9; k++) {
+                    for (int l = 0; l <= 9; l++) {
+                        if ((k > j && k > l) || (k < j && k < l)) {
+                            int curr = j * 100 + k * 10 + l;
+                            if (curr < tar){
+                                res += a;
+                                if (curr < 100){
+                                    res -= sub;
+                                }
+                            }else if(curr == tar){
+                                res += c;
+                                if(curr < 100)
+                                    res -= sub;
+                            }else{
+                                res += b;
+                                if (curr < 100)
+                                    res -= sub;
+                            }
+                        }
+                    }
+                }
+            }
         }
-        return count;
+
+        return res;
+    }
+    long long totalWaviness(long long num1, long long num2) {
+        return wav(num2) - wav(num1 - 1);
     }
 };
