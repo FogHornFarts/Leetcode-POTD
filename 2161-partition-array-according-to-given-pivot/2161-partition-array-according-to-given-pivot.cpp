@@ -23,6 +23,6 @@ public:
                 ans[gp++] = num;
             }
         }
-            return ans;
-        }
-    };
+        return ans;
+    }
+};
