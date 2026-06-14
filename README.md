@@ -11,6 +11,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 ## Geometry
 |  |
@@ -429,6 +431,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
