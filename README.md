@@ -46,6 +46,7 @@ Collection of LeetCode questions
 | [3120-count-the-number-of-special-characters-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -196,6 +197,7 @@ Collection of LeetCode questions
 | [2553-separate-the-digits-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
