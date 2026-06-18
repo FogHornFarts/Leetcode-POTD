@@ -326,6 +326,7 @@ Collection of LeetCode questions
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
