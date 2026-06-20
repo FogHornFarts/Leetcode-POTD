@@ -3,11 +3,8 @@ public:
     int maxBuilding(int n, vector<vector<int>>& restrictions) {
         restrictions.push_back({1, 0});
         restrictions.push_back({n, n - 1});
-
         sort(restrictions.begin(), restrictions.end());
-
         int m = restrictions.size();
-
         // Left -> Right
         for (int i = 1; i < m; i++) {
             restrictions[i][1] = min(
@@ -16,7 +13,6 @@ public:
                 (restrictions[i][0] - restrictions[i - 1][0])
             );
         }
-
         // Right -> Left
         for (int i = m - 2; i >= 0; i--) {
             restrictions[i][1] = min(
@@ -25,13 +21,10 @@ public:
                 (restrictions[i + 1][0] - restrictions[i][0])
             );
         }
-
         long long ans = 0;
-
         for (int i = 1; i < m; i++) {
             long long id1 = restrictions[i - 1][0];
             long long h1  = restrictions[i - 1][1];
-
             long long id2 = restrictions[i][0];
             long long h2  = restrictions[i][1];
 
