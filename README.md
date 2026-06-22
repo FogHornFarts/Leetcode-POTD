@@ -26,6 +26,7 @@ Collection of LeetCode questions
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -434,6 +436,7 @@ Collection of LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Breadth-First Search
 |  |
