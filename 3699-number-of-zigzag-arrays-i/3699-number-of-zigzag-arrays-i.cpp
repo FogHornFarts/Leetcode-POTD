@@ -29,4 +29,4 @@ public:
 
         return (ans * 2) % MOD;
     }
-}; 
+};
