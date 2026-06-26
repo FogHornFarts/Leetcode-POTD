@@ -137,6 +137,7 @@ Collection of LeetCode questions
 | [3689-maximum-total-subarray-value-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,6 +380,7 @@ Collection of LeetCode questions
 | [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -427,6 +431,7 @@ Collection of LeetCode questions
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -484,4 +489,5 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
