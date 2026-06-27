@@ -111,6 +111,7 @@ Collection of LeetCode questions
 | [2784-check-if-array-is-good](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3093-longest-common-suffix-queries) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3751-total-waviness-of-numbers-in-range-i) |
