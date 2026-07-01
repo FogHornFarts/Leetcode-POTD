@@ -124,7 +124,7 @@ public:
             int id = cur.id;
 
             if(visited[id]){
-                                continue;
+                continue;
             }
 
             visited[id] = 1;
