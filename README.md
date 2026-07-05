@@ -70,6 +70,7 @@ Collection of LeetCode questions
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions
 | ------- |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
