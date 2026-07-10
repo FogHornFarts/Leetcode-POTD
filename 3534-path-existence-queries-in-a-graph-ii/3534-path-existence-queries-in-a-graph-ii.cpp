@@ -6,15 +6,13 @@ public:
     int pos[100005];
     pair<int, int> arr[100005];
     int getJumps(int u, int v) {
-        if (u == v){
+        if (u == v)
             return 0;
-        }
-        if (up[0][u] >= v){
+        if (up[0][u] >= v)
             return 1;
-        }
-        if (up[LOG - 1][u] < v){
+        if (up[LOG - 1][u] < v)
             return -1;
-        }
+
         int jumps = 0;
         for (int j = LOG - 1; j >= 0; j--) {
             if (up[j][u] < v) {
@@ -35,6 +33,7 @@ public:
             pos[arr[i].second] = i;
         }
         int right = 0;
+
         for (int left = 0; left < n; left++) {
             while (
                 right + 1 < n &&
@@ -42,6 +41,7 @@ public:
             ) {
                 right++;
             }
+
             up[0][left] = right;
         }
         for (int j = 1; j < LOG; j++) {
@@ -50,13 +50,14 @@ public:
             }
         }
         vector<int> ans;
+
         for (auto &q : queries) {
             int u = pos[q[0]];
             int v = pos[q[1]];
 
-            if (u > v){
+            if (u > v)
                 swap(u, v);
-            }
+
             ans.push_back(getJumps(u, v));
         }
 
