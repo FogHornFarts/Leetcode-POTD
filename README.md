@@ -15,6 +15,7 @@ Collection of LeetCode questions
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions
 | [2573-find-the-string-with-lcp](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3660-jump-game-ix/) | Medium |
@@ -325,6 +329,7 @@ Collection of LeetCode questions
 | [1009-complement-of-base-10-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
@@ -340,6 +345,7 @@ Collection of LeetCode questions
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -362,6 +368,7 @@ Collection of LeetCode questions
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
@@ -441,6 +448,7 @@ Collection of LeetCode questions
 | [2784-check-if-array-is-good](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
