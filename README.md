@@ -75,6 +75,7 @@ Collection of LeetCode questions
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -272,6 +273,7 @@ Collection of LeetCode questions
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -435,6 +437,7 @@ Collection of LeetCode questions
 | ------- |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
