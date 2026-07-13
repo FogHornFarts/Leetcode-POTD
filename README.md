@@ -461,6 +461,7 @@ Collection of LeetCode questions
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
