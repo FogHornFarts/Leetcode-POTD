@@ -132,6 +132,7 @@ Collection of LeetCode questions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -322,6 +324,7 @@ Collection of LeetCode questions
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -349,6 +352,7 @@ Collection of LeetCode questions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -402,6 +406,7 @@ Collection of LeetCode questions
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -479,6 +484,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -522,6 +528,7 @@ Collection of LeetCode questions
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
@@ -574,4 +581,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3620-network-recovery-pathways) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
