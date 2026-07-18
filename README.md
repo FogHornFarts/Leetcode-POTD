@@ -100,6 +100,7 @@ Collection of LeetCode questions
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -401,6 +402,7 @@ Collection of LeetCode questions
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -483,6 +485,7 @@ Collection of LeetCode questions
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
