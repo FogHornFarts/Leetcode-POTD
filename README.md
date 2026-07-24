@@ -404,6 +404,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
