@@ -86,6 +86,7 @@ Collection of LeetCode questions
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -448,6 +449,7 @@ Collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -476,6 +478,7 @@ Collection of LeetCode questions
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1833-maximum-ice-cream-bars) |
