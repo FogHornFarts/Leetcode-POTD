@@ -78,6 +78,7 @@ Collection of LeetCode questions
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 |  |
@@ -261,6 +263,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -421,6 +424,7 @@ Collection of LeetCode questions
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -640,4 +644,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
