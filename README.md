@@ -76,6 +76,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
