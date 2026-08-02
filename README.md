@@ -24,6 +24,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
@@ -494,6 +497,7 @@ Collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
