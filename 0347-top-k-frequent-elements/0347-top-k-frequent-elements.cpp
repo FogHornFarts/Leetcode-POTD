@@ -6,7 +6,7 @@ public:
             count[num]++;
         }
         vector<pair<int, int>> arr;
-        for(const auto& p : count){
+        for(const auto& p:count){
             arr.push_back({p.second, p.first});
         }
         sort(arr.rbegin(), arr.rend());
