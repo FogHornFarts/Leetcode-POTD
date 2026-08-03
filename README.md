@@ -97,6 +97,7 @@ Collection of LeetCode questions
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -275,6 +276,7 @@ Collection of LeetCode questions
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -442,6 +444,7 @@ Collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -668,6 +671,7 @@ Collection of LeetCode questions
 | ------- |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -676,4 +680,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
