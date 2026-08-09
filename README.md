@@ -89,6 +89,7 @@ Collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1871-jump-game-vii) |
@@ -447,6 +450,7 @@ Collection of LeetCode questions
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -684,6 +688,7 @@ Collection of LeetCode questions
 | ------- |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 ## Bucket Sort
 |  |
@@ -696,9 +701,11 @@ Collection of LeetCode questions
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
