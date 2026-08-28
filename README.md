@@ -20,6 +20,7 @@ Collection of LeetCode questions
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -70,6 +71,7 @@ Collection of LeetCode questions
 | [3612-process-string-with-special-operations-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3838-weighted-word-mapping) |
 ## String Matching
@@ -613,6 +615,7 @@ Collection of LeetCode questions
 | [3546-equal-sum-grid-partition-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
