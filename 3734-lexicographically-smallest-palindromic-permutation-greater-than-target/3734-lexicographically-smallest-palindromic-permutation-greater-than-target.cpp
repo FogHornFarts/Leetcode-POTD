@@ -118,7 +118,7 @@ public:
         }
 
         if (!nextPermutation(half)) {
-            return " ";
+            return "";
         }
 
         return buildPalindrome(half, middle);
