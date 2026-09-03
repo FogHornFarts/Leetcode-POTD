@@ -213,6 +213,7 @@ Collection of LeetCode questions
 | [3838-weighted-word-mapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -548,6 +549,7 @@ Collection of LeetCode questions
 | [3783-mirror-distance-of-an-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
