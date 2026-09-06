@@ -27,6 +27,7 @@ Collection of LeetCode questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
