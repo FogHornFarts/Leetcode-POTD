@@ -178,6 +178,7 @@ Collection of LeetCode questions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -337,6 +338,7 @@ Collection of LeetCode questions
 | [3225-maximum-score-from-grid-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions
 | [3161-block-placement-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -618,6 +621,7 @@ Collection of LeetCode questions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
