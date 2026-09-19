@@ -546,6 +546,7 @@ Collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions
 | ------- |
 | [0836-rectangle-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Divide and Conquer
 |  |
