@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
@@ -379,6 +380,7 @@ Collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -458,6 +460,7 @@ Collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -475,6 +478,7 @@ Collection of LeetCode questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -531,6 +535,7 @@ Collection of LeetCode questions
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
@@ -618,6 +623,7 @@ Collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
