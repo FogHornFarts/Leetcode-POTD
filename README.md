@@ -69,6 +69,7 @@ Collection of LeetCode questions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
