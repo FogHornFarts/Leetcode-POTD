@@ -91,6 +91,7 @@ Collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -479,6 +480,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
