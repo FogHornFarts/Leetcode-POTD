@@ -95,6 +95,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -629,6 +631,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -713,6 +716,7 @@ Collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -740,6 +744,7 @@ Collection of LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2029-stone-game-ix) |
@@ -866,4 +871,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
