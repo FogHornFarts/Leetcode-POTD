@@ -127,6 +127,7 @@ Collection of LeetCode questions
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions
 | [1386-cinema-seat-allocation](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -442,6 +445,7 @@ Collection of LeetCode questions
 | ------- |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1871-jump-game-vii) |
@@ -490,6 +494,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
