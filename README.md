@@ -472,6 +472,7 @@ Collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -725,6 +726,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
