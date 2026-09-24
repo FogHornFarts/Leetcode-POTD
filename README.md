@@ -564,6 +564,7 @@ Collection of LeetCode questions
 | [1401-circle-and-rectangle-overlapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1510-stone-game-iv) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
