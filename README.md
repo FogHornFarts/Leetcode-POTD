@@ -36,6 +36,7 @@ Collection of LeetCode questions
 | [0796-rotate-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1154-day-of-the-year](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions
 | [0836-rectangle-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1154-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
