@@ -36,6 +36,7 @@ Collection of LeetCode questions
 | [0796-rotate-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -396,6 +397,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -652,6 +655,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
@@ -718,6 +722,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 ## Geometry
@@ -772,6 +777,7 @@ Collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
