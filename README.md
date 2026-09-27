@@ -28,6 +28,7 @@ Collection of LeetCode questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -480,6 +482,7 @@ Collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
@@ -555,6 +558,7 @@ Collection of LeetCode questions
 | ------- |
 | [0009-palindrome-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
