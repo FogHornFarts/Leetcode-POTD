@@ -125,6 +125,7 @@ Collection of LeetCode questions
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1386-cinema-seat-allocation) |
+| [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -581,6 +582,7 @@ Collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1510-stone-game-iv) |
@@ -918,4 +920,12 @@ Collection of LeetCode questions
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
