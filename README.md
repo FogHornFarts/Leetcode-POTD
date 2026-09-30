@@ -102,6 +102,7 @@ Collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
