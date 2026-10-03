@@ -29,6 +29,7 @@ Collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
@@ -745,6 +747,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -928,6 +931,7 @@ Collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
