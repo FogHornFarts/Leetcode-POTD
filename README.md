@@ -960,4 +960,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
