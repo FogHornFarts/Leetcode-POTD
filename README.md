@@ -107,6 +107,7 @@ Collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0162-find-peak-element) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
@@ -776,6 +778,7 @@ Collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
