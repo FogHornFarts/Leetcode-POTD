@@ -105,6 +105,7 @@ Collection of LeetCode questions
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
