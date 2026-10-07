@@ -36,6 +36,7 @@ Collection of LeetCode questions
 | [0168-excel-sheet-column-title](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0678-valid-parenthesis-string) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -826,6 +828,7 @@ Collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
