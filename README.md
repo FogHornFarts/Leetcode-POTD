@@ -8,6 +8,7 @@ Collection of LeetCode questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
+| [0283-move-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1861-rotating-the-box/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
