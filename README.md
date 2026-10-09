@@ -124,6 +124,7 @@ Collection of LeetCode questions
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -262,6 +263,7 @@ Collection of LeetCode questions
 | ------- |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
