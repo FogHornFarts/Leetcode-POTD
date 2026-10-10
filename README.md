@@ -130,6 +130,7 @@ Collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1386-cinema-seat-allocation) |
