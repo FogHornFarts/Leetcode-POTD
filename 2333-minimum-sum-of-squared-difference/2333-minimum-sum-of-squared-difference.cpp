@@ -13,33 +13,25 @@ public:
         long long k = (long long)k1 + k2;
         if (total <= k) return 0;
         int left = 0, right = mx;
-        while(left<right){
+        while (left < right) {
             int mid = left + (right - left) / 2;
             long long need = 0;
-            for(int v: d){
-                need += max(0, v - mid);
-            }
-            if(need <= k){
-                right = mid;
-            }
-            else{
-                left = mid + 1;
-            }
+            for (int v : d) need += max(0, v - mid);
+            if (need <= k) right = mid;
+            else left = mid + 1;
         }
-        for(int i=0;i<n;++i){
+        for (int i = 0; i < n; ++i) {
             k -= max(0, d[i] - left);
             d[i] = min(d[i], left);
         }
-        for(int i=0;i<n && k>0;++i){
-            if(d[i] == left){
+        for (int i = 0; i < n && k > 0; ++i) {
+            if (d[i] == left) {
                 --d[i];
                 --k;
             }
         }
         long long ans = 0;
-        for(int v: d){
-            ans += (long long)v * v;
-        }
+        for (int v : d) ans += (long long)v * v;
         return ans;
     }
 };
