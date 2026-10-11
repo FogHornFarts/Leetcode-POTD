@@ -197,6 +197,7 @@ Collection of LeetCode questions
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2906-construct-product-matrix/) | Medium |
@@ -750,6 +751,7 @@ Collection of LeetCode questions
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3483-unique-3-digit-even-numbers) |
