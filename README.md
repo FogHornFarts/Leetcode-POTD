@@ -10,6 +10,7 @@ Collection of LeetCode questions
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0633-sum-of-square-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions
 | [0162-find-peak-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0633-sum-of-square-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -612,6 +614,7 @@ Collection of LeetCode questions
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
