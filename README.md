@@ -115,6 +115,7 @@ Collection of LeetCode questions
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0162-find-peak-element) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
