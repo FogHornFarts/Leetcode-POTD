@@ -28,6 +28,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -439,6 +440,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
@@ -613,6 +615,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0168-excel-sheet-column-title) |
