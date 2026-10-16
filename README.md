@@ -627,6 +627,7 @@ Collection of LeetCode questions
 | [0168-excel-sheet-column-title](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
@@ -820,6 +821,7 @@ Collection of LeetCode questions
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
