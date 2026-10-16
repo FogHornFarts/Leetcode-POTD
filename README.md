@@ -500,6 +500,7 @@ Collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
