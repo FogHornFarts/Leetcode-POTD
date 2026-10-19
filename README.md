@@ -185,6 +185,7 @@ Collection of LeetCode questions
 | [2029-stone-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
