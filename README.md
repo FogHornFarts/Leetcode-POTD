@@ -644,6 +644,7 @@ Collection of LeetCode questions
 | [0223-rectangle-area](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1062,4 +1063,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
