@@ -555,6 +555,7 @@ Collection of LeetCode questions
 | [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0461-hamming-distance) |
