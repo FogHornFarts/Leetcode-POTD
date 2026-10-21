@@ -45,6 +45,7 @@ Collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0678-valid-parenthesis-string) |
+| [0791-custom-sort-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0791-custom-sort-string) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
@@ -757,6 +759,7 @@ Collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0791-custom-sort-string) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
