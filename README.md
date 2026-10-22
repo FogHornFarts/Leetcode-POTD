@@ -645,6 +645,7 @@ Collection of LeetCode questions
 | [0067-add-binary](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
