@@ -134,6 +134,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0396-rotate-function/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0678-valid-parenthesis-string) |
@@ -761,6 +763,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0791-custom-sort-string) |
