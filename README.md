@@ -74,6 +74,7 @@ Collection of LeetCode questions
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -685,6 +686,7 @@ Collection of LeetCode questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2409-count-days-spent-together](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
