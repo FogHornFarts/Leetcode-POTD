@@ -147,6 +147,7 @@ Collection of LeetCode questions
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions
 | [0059-spiral-matrix-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -619,6 +621,7 @@ Collection of LeetCode questions
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -885,6 +888,7 @@ Collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -920,6 +924,7 @@ Collection of LeetCode questions
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
