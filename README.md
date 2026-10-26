@@ -576,6 +576,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0461-hamming-distance) |
+| [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1386-cinema-seat-allocation) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0633-sum-of-square-numbers) |
+| [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [0788-rotated-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
@@ -895,6 +897,7 @@ Collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -931,6 +934,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
+| [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
