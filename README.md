@@ -119,6 +119,7 @@ Collection of LeetCode questions
 | [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0217-contains-duplicate) |
