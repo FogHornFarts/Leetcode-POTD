@@ -125,6 +125,7 @@ Collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0059-spiral-matrix-ii) |
+| [0134-gas-station](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -294,6 +295,7 @@ Collection of LeetCode questions
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
