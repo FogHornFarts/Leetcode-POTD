@@ -138,6 +138,7 @@ Collection of LeetCode questions
 | [0268-missing-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0409-longest-palindrome/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0561-array-partition) |
@@ -1131,4 +1133,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0319-bulb-switcher) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
