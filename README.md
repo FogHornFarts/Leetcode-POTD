@@ -210,6 +210,7 @@ Collection of LeetCode questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -722,6 +723,7 @@ Collection of LeetCode questions
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2409-count-days-spent-together](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -872,6 +874,7 @@ Collection of LeetCode questions
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
