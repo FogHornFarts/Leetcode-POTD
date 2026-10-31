@@ -275,6 +275,7 @@ Collection of LeetCode questions
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
@@ -458,6 +460,7 @@ Collection of LeetCode questions
 | [3620-network-recovery-pathways](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
