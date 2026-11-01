@@ -549,6 +549,7 @@ Collection of LeetCode questions
 | [0039-combination-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
@@ -1145,4 +1146,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0334-increasing-triplet-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
