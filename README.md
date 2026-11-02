@@ -210,6 +210,7 @@ Collection of LeetCode questions
 | [2213-longest-substring-of-one-repeating-character](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -726,6 +727,7 @@ Collection of LeetCode questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2409-count-days-spent-together](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -775,6 +777,7 @@ Collection of LeetCode questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -834,6 +837,7 @@ Collection of LeetCode questions
 | [2126-destroying-asteroids](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2463-minimum-total-distance-traveled](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -879,6 +883,7 @@ Collection of LeetCode questions
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1125,10 +1130,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search Tree
 |  |
 | ------- |
