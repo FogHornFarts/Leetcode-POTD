@@ -155,6 +155,7 @@ Collection of LeetCode questions
 | [0860-lemonade-change](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0877-stone-game) |
+| [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
@@ -632,6 +633,7 @@ Collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0633-sum-of-square-numbers) |
+| [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -1170,4 +1172,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0052-n-queens-ii) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
