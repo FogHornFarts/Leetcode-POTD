@@ -159,6 +159,7 @@ Collection of LeetCode questions
 | [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -723,6 +724,7 @@ Collection of LeetCode questions
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions
 | ------- |
 | [0204-count-primes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2427-number-of-common-factors](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2427-number-of-common-factors/) | Easy |
@@ -1149,11 +1152,13 @@ Collection of LeetCode questions
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Search Tree
@@ -1188,4 +1193,12 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1095-find-in-mountain-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
