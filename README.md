@@ -200,6 +200,7 @@ Collection of LeetCode questions
 | [1861-rotating-the-box](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -797,6 +798,7 @@ Collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
