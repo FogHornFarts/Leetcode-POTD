@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0035-search-insert-position) |
