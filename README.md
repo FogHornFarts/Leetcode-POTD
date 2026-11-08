@@ -165,6 +165,7 @@ Collection of LeetCode questions
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
@@ -368,6 +369,7 @@ Collection of LeetCode questions
 | [0835-image-overlap](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -670,6 +672,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -964,6 +967,7 @@ Collection of LeetCode questions
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -989,6 +993,7 @@ Collection of LeetCode questions
 | [0347-top-k-frequent-elements](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1003,6 +1008,7 @@ Collection of LeetCode questions
 | [0672-bulb-switcher-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0672-bulb-switcher-ii) |
 | [1096-brace-expansion-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
