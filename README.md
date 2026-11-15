@@ -411,6 +411,7 @@ Collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3483-unique-3-digit-even-numbers) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0048-rotate-image/) | Medium |
@@ -1043,6 +1045,7 @@ Collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/0061-rotate-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
