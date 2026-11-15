@@ -179,6 +179,7 @@ Collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -590,6 +592,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -750,6 +753,7 @@ Collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
