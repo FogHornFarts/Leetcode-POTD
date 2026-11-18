@@ -32,6 +32,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0022-generate-parentheses) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -1010,6 +1012,7 @@ Collection of LeetCode questions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3093-longest-common-suffix-queries) |
