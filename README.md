@@ -78,6 +78,7 @@ Collection of LeetCode questions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/2409-count-days-spent-together) |
