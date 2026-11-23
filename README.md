@@ -180,6 +180,7 @@ Collection of LeetCode questions
 | [1331-rank-transform-of-an-array](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
@@ -609,6 +610,7 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -766,6 +768,7 @@ Collection of LeetCode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1406-stone-game-iii) |
@@ -849,6 +852,7 @@ Collection of LeetCode questions
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/FogHornFarts/Leetcode-POTD/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -1264,4 +1268,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/FogHornFarts/Leetcode-POTD/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
